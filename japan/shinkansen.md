@@ -1,0 +1,2 @@
+- You can buy "today" ticket from an office inside the gate to the left of the shinkan enterance.
+- no-reservation seats can be any train, so take the train with the fewest stops 

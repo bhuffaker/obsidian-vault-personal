@@ -1,0 +1,5 @@
+- Her business is called "さくら介護タクシ"　（Worry free taxi)
+- Youthful
+	- many things supporting many elder people
+	- trax part is called "さくら介護タクシ"　（Worry free taxi)
+- radio show is called "Sakura Happy Navigation"

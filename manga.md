@@ -1,0 +1,2 @@
+- [Ousama ni sasagu kusuriyubi](https://mangadex.org/title/b34fe0fa-a8f0-4ee3-a78b-4a7f7240b59f/ousama-ni-sasagu-kusuriyubi) : drama watched the ladies in Japan
+- author: Beans Mame

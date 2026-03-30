@@ -1,0 +1,7 @@
+- file identity theft report with ftc
+	- describe natrue of idenity theft
+	- download form letters for disbutting accounts
+	- reliant is legaly responsiblty for notifying CSN
+	- download checklis, including escalatin to  CFPB
+- file police report in sdsp
+- file 

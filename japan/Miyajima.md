@@ -1,0 +1,1 @@
+Itsukushima is the Island, often called Miyajima.

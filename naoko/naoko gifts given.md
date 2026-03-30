@@ -1,0 +1,7 @@
+- 1999/01 wedding 3 year
+	- ring with three blue gems and small diamonds
+- 2006/01 weeding 10 year 
+	- eternity ring, simple ring with 
+- 2026/01 wedding 30 year $500
+	- Diamond + emerald necklace
+	- in bookshelf behind door, red wrapped box

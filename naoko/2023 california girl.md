@@ -1,0 +1,4 @@
+- horizon is up
+- line of palm trees that give depth to the image 
+- naoko bike 
+- 

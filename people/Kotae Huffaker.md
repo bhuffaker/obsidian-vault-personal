@@ -1,0 +1,3 @@
+- #date2023 
+	- Kotae was invited by chris+jackup, but they decided to leave right after he ordered a drink. They had already finished eating and seeing a movie. They said they were going to Moore's house to watch anime.
+	- Kotea asked me to no longer encourage him to go see them when jackup+* invites 

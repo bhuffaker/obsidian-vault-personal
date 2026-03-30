@@ -1,0 +1,1 @@
+95 cm height , 49.5cm x 28.5 cm 

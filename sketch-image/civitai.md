@@ -1,0 +1,6 @@
+#ai #sketch-to-image #models 
+https://civitai.com/tag/hentai 
+ - account: discord
+[video guides](https://www.google.com/search?q=SDXL+ControlNet+sketch+to+manga&sca_esv=63ad467223b51100&ei=sbKkaNS6BsDLkPIP4oOS4Qs&ved=0ahUKEwiU1_u8sZePAxXAJUQIHeKBJLwQ4dUDCBA&uact=5&oq=SDXL+ControlNet+sketch+to+manga&gs_lp=Egxnd3Mtd2l6LXNlcnAiH1NEWEwgQ29udHJvbE5ldCBza2V0Y2ggdG8gbWFuZ2EyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSM1GUJQIWI1FcAN4AZABAJgBkwGgAagMqgEEMTcuMrgBA8gBAPgBAvgBAZgCFqACmg3CAgoQABiwAxjWBBhHwgIREAAYgAQYkQIYsQMYgwEYigXCAgoQABiABBhDGIoFwgILEAAYgAQYkQIYigXCAgUQABiABMICBhAAGBYYHsICBRAAGO8FwgIIEAAYgAQYogTCAgsQABiABBiGAxiKBcICBRAhGKsCmAMAiAYBkAYIkgcEMjAuMqAHrlWyBwQxNy4yuAeODcIHBjAuNy4xNcgHUw&sclient=gws-wiz-serp)
+- https://www.youtube.com/watch?app=desktop&v=IBNuALJuOgw
+- 

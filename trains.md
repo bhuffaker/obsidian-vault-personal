@@ -1,0 +1,1 @@
+- shinkansen take thier numbers in the order of the cars, not direction of the train.  So <car A> <car B seats 1....4> <car C>.

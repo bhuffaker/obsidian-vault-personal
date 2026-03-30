@@ -1,0 +1,1 @@
+- in #year_2025 , #Naoko thinks she gave #Kotae a small bar of #gold. Naoko found it and they put it in a white box labeled "Great Grandma" bar. 

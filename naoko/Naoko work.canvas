@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"Sandra (50+) (hispanic)","id":"5cb924e2d9869713","x":-240,"y":-20,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Roceld (philip)","id":"64dbfc32cf0c04d0","x":-620,"y":-20,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"minda (philip) ","id":"bd965d9b51244d44","x":-405,"y":160,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Marlene (hispanic)","id":"c004730d73869a22","x":100,"y":160,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Jenny (hispanic)","id":"941a86b64587c6af","x":-190,"y":340,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Ivonne (hispanic)","id":"563b6564c1509242","x":-800,"y":160,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Brianna (hispanic)","id":"d3b474fa76cf47ce","x":420,"y":170,"width":250,"height":50,"color":"6"},
+		{"type":"text","text":"Karla (hisspanic)","id":"1685aa26439c2c8a","x":140,"y":10,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"\"marlene mother\" retired","id":"468e69ef9ffbb579","x":100,"y":420,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Karen (philip) (manager)","id":"3676bb861941576e","x":-340,"y":-220,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Joey (philip) (manager)","id":"13eb5653835406cc","x":10,"y":-220,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Angie (white) (manager)\n- son has japanese wife","id":"a37bb703651e4c4c","x":-155,"y":-400,"width":250,"height":90,"color":"5"},
+		{"id":"2024937d76ccdb73","type":"text","text":"Mary Anny (vet) \n- works 2nd \n- husband american","x":-590,"y":340,"width":250,"height":80,"color":"3"},
+		{"id":"1e4a65deae9bfe93","type":"text","text":"Johnnathan (care center)","x":207,"y":-357,"width":250,"height":60},
+		{"id":"40a1747b27d6eeaf","x":369,"y":-203,"width":250,"height":60,"type":"text","text":"joey (manager)"}
+	],
+	"edges":[
+		{"id":"0458db8a2877ce1c","fromNode":"3676bb861941576e","fromSide":"bottom","toNode":"5cb924e2d9869713","toSide":"top","color":"1","label":"manager"},
+		{"id":"504db3b6f7c1fd6e","fromNode":"a37bb703651e4c4c","fromSide":"bottom","toNode":"3676bb861941576e","toSide":"top","color":"1","label":"manager"},
+		{"id":"dce8d4403dd089eb","fromNode":"c004730d73869a22","fromSide":"left","toNode":"5cb924e2d9869713","toSide":"right","color":"4","label":"neice"},
+		{"id":"9b5e9336dfa91045","fromNode":"bd965d9b51244d44","fromSide":"top","toNode":"3676bb861941576e","toSide":"left","color":"4","label":"sister"},
+		{"id":"02bd2d7cc99e9c02","fromNode":"941a86b64587c6af","fromSide":"top","toNode":"1685aa26439c2c8a","toSide":"left","color":"4","label":"sister"},
+		{"id":"a0ff58bc1fc5b179","fromNode":"563b6564c1509242","fromSide":"top","toNode":"64dbfc32cf0c04d0","toSide":"left","color":"4","label":"brother's wife's sister"},
+		{"id":"616b63ac3c531fd0","fromNode":"d3b474fa76cf47ce","fromSide":"top","toNode":"1685aa26439c2c8a","toSide":"right","color":"2","label":"😀"},
+		{"id":"3c79a2aadcebbf4b","fromNode":"d3b474fa76cf47ce","fromSide":"bottom","toNode":"941a86b64587c6af","toSide":"right","color":"2","label":"😀"},
+		{"id":"055299944cbe4475","fromNode":"3676bb861941576e","fromSide":"left","toNode":"64dbfc32cf0c04d0","toSide":"top","color":"1","label":"manager"},
+		{"id":"51b16315ac021d7f","fromNode":"3676bb861941576e","fromSide":"bottom","toNode":"1685aa26439c2c8a","toSide":"top","color":"1","label":"manager"},
+		{"id":"3f8fd0a99442df31","fromNode":"c004730d73869a22","fromSide":"bottom","toNode":"468e69ef9ffbb579","toSide":"top","color":"4","label":"mother"},
+		{"id":"56716caa94b158e0","fromNode":"a37bb703651e4c4c","fromSide":"bottom","toNode":"13eb5653835406cc","toSide":"top","color":"1"}
+	]
+}

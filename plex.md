@@ -1,0 +1,2 @@
+- [Add DVDs to plex](https://www.easefab.com/dvd-tips/add-dvds-to-plex.html)
+- 

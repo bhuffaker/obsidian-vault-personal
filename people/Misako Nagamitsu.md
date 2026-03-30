@@ -1,0 +1,2 @@
+- [[Naoko Huffaker]]'s mother
+- lives in [[Ootake, Hioshima, Japan]] 

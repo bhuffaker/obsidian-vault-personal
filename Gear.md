@@ -1,0 +1,3 @@
+- solar panel 
+	- https://www.amazon.com/dp/B01EXWCPLC **wirecutter**
+	- 
