@@ -1,0 +1,2 @@
+#skyrim #nexusmods 
+- **Disable `privacy.resistFingerprinting` in Firefox.** This is the single biggest Firefox-specific culprit. Go to `about:config` and set `privacy.resistFingerprinting` to `false`. This setting has been documented to cause Cloudflare challenge loops, because it normalizes your browser fingerprint in ways that Cloudflare interprets as bot-like behavior. [Mozilla Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1735193) If you're using the Arkenfox `user.js` or a hardened profile, this setting is likely enabled.
