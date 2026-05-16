@@ -31,35 +31,18 @@
 | **Catherine Blakespear** | SD-38        | D         | **$750K+**       | High                | Environmental protection, fire safety, and housing.            |
 | **Brian Goldsmith**      | SD-24        | D         | **$1.4M+**       | High                | Economic growth, public safety, and Jewish community advocacy. |
 | **Esmeralda Soria**      | SD-14        | D         | **High**         | High                | Water rights, agricultural support, and healthcare access.     |
-
 ### Brian Goldsmith (SD-24 - Los Angeles)
-
 - **Funding:** Currently one of the most well-funded candidates in the state, bolstered by significant personal seeding and high-profile donors.
-    
 - **Likelihood to Win:** Very High. Running in a safe Democratic district for a seat vacated by Ben Allen.
-    
 - **Platform & History:** A small business owner with deep ties to the Los Angeles Jewish community. His platform focuses on pragmatism in business, enhancing public safety, and mental health services.
-    
 - **Key Supports:** California Association of Highway Patrolmen, California Legislative Jewish Caucus, and various business labor groups.
-    
-
-### 2. Catherine Blakespear (SD-38 - San Diego/Orange Co.)
-
+### Catherine Blakespear (SD-38 - San Diego/Orange Co.)
 - **Funding:** Strong fundraising base with over $750,000 reported.
-    
 - **Likelihood to Win:** High. Though the district has a "competitive" lean, she is the incumbent and has the full weight of the state party behind her.
-    
 - **Platform & History:** Former Mayor of Encinitas. She focuses heavily on climate change, specifically coastal preservation and wildfire prevention.
-    
 - **Key Supports:** California Democratic Party, SEIU California, and California Professional Firefighters.
-    
-
-### 3. Esmeralda Soria (SD-14 - Central Valley)
-
+### Esmeralda Soria (SD-14 - Central Valley)
 - **Funding:** As a sitting Assemblymember moving to the Senate, she has access to a massive established donor network and "frontrunner" momentum.
-    
 - **Likelihood to Win:** High. While the district is trending rightward, she is the clear Democratic favorite.
-    
 - **Platform & History:** A former law professor and Fresno City Councilmember. Her platform is centered on the "Valley's needs"—water security, rural healthcare, and agricultural labor rights.
-    
 - **Key Supports:** California Democratic Party, AFSCME, and SEIU California.
