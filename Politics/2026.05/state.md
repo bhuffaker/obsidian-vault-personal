@@ -130,12 +130,14 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - Supports: California Working Families Party, Our Revolution, and several progressive LGBTQ groups.
 - History: Former San Francisco Supervisor and runner-up in several high-profile SF races.
 ### member, state board of equalization 4th district 
+
 | **Rank** | **Candidate**       | **Party**  | **Total Contributions** | **Likelyhood to Win**  |
 | -------- | ------------------- | ---------- | ----------------------- | ---------------------- |
 | **1**    | **Tom Umnerg**      | Democratic | leading                 | **High** (Frontrunner) |
 | **2**    | **Denis Bilodeau**  | Rep        | competitive             | **strong**             |
-| **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
+|          | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
 | **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
+|          |                     |            |                         |                        |
 ### Tom Umberg (Democrat)
 Current State Senator Tom Umberg is the heavy favorite. He carries significant name recognition and a formidable "war chest" typically seen in top-tier legislative races.
 - **Platform:** Focuses on tax fairness for middle-class homeowners, modernization of BOE technology, and ensuring utilities/railroads pay their fair share of property taxes.
