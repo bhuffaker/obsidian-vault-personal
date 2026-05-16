@@ -78,11 +78,59 @@ https://calmatters.org/california-voter-guide-2026/governor/
 | **2**    | **Anna Caballero (D)**   | **Moderate-High.** Strong recent fundraising, but trails Kounalakis significantly. | **Competitive.** Strongest challenger; relies on Central Valley and Latino support.         |
 | **3**    | **Jennifer Hawks (R)**   | **Low.** Lacks major donor network of the Democrats.                               | **Moderate (Primary).** Likely to reach the general election via Republican vote-splitting. |
 | **4**    | **Tony Vazquez (D)**     | **Low.** Trailing in both fundraising and statewide visibility.                    | **Low.** Faces uphill battle against two Democratic heavyweights.                           |
-#### **. Eleni Kounalakis (D)**
+#### **Eleni Kounalakis (D)**
 - **Platform:** Focuses on fiscal responsibility paired with social equity. She emphasizes using the Treasurer’s seat on state boards (like UC and CSU) to freeze tuition and expand affordable housing through state-backed bonds.
 - **Supports:** Gov. Gavin Newsom, Nancy Pelosi, Hillary Clinton, and major labor unions like the California Labor Federation and Teamsters.
 - **History:** Current Lieutenant Governor (2nd term). Former U.S. Ambassador to Hungary under Obama. Daughter of major developer Angelo Tsakopoulos, which has provided her with a formidable political network.
-#### **2. Anna Caballero (D)**
+#### **Anna Caballero (D)**
 - **Platform:** Positioned as the candidate for "working-class California." Her platform focuses on rural infrastructure, clean energy (specifically hydrogen and dairy gas), and simplifying the state’s complex affordable housing subsidy process.
 - **Supports:** U.S. Senator Adam Schiff, California Latino Legislative Caucus, and the California Conference of Carpenters.
 - **History:** Longtime State Senator from Merced/Fresno. Served as Secretary of the Business, Consumer Services and Housing Agency under Jerry Brown and was previously the Mayor of Salinas.
+# Attorney General 
+--- 
+
+| **Rank** | **Candidate**       | **Party**  | **Total Funding (Approx.)** | **Likelihood to Win** |
+| -------- | ------------------- | ---------- | --------------------------- | --------------------- |
+| **1**    | **Rob Bonta**       | Democratic | **$2,321,358**              | **High** (Safe D)     |
+| **2**    | **Michael Gates**   | Republican | **$672,116**                | **Low** (Underdog)    |
+| **3**    | **Marjorie Mikels** | Green      | **$0 / Unavailable**        | **Minimal**           |
+### **Rob Bonta (Incumbent)**
+**History:** Bonta was appointed in 2021 by Governor Newsom to fill Xavier Becerra’s seat and was subsequently elected to a full term in 2022. Previously, he served in the California State Assembly.
+- **Platform:** Focuses heavily on "The California Way," which includes aggressive environmental litigation, defending reproductive rights, and enforcing state housing laws against resistant cities.
+- **Recent Activity:** Since the 2024 presidential election, he has positioned himself as a primary legal check on the federal administration, filing or joining over 50 lawsuits against federal policies.
+- **Supports:** California Democratic Party, California Teachers Association, SEIU California, Planned Parenthood, and Sierra Club.
+### **2. Michael Gates**
+**History:** Served as the Huntington Beach City Attorney for a decade, where he gained a reputation for suing the state of California over housing mandates and "sanctuary state" laws. He briefly served as a Deputy Assistant Attorney General in the U.S. DOJ in 2025.
+- **Platform:** A self-described "Trump culture warrior." His campaign focuses on "law and order," reducing retail theft, and restoring local control to cities against state overreach. He opposes what he calls "lenient" criminal justice policies.
+- **Supports:** California Republican Party, California Parents Union, and the California Rifle & Pistol Association.
+### Insurance Commissioner 
+
+| **Rank** | **Candidate**       | **Party**  | **Total Contributions** | **Likelyhood to Win**  |
+| -------- | ------------------- | ---------- | ----------------------- | ---------------------- |
+| **1**    | **Ben Allen**       | Democratic | ~$1,497,910             | **High** (Frontrunner) |
+| **2**    | **Patrick Wolff**   | Democratic | ~$854,708               | **Moderate**           |
+| **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
+| **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
+### Ben Allen (D) – State Senator
+Platform: Focuses on "Consumer Accountability." He proposes a new consumer advocate position within the department and state-backed loans to help homeowners make their properties more fire-resistant (home hardening).  Supports: Backed by U.S. Senators Alex Padilla and Adam Schiff, as well as several labor unions (CFT, UFCW). History: A veteran legislator from El Segundo who has chaired environmental and budget committees. He is running on his record of climate legislation.  
+### Patrick Wolff (D) – Financial Analyst
+Platform: Transparency-focused. Proposes an "Insurance Report Card" to grade insurers on claim handling. He is also open to tech-driven solutions, such as allowing auto insurers to track driver behavior for lower rates.  
+Supports: Largely self-funded and positioned as a technocratic outsider.
+
+History: A chess Grandmaster and former hedge fund manager who obtained his insurance license specifically to run for this office.
+
+3. Steven Bradford (D) – Former State Senator
+
+Platform: Stability through partnership. He supports a state-private partnership to share risk, aiming to keep private insurers from leaving California. He advocates for including insurance companies in land-use planning discussions.  
+
+Supports: Endorsed by State Treasurer Fiona Ma and LA Mayor Karen Bass.
+
+History: Former legislator and Southern California Edison executive with deep ties to the energy and utility sectors.  
+
+4. Jane Kim (D) – Working Families Party Leader
+
+Platform: Progressive populist. Advocates for "Natural Disaster Insurance for All" and a public option for auto insurance. She wants to consolidate all health and managed care authority under the Insurance Commissioner.  
+
+Supports: California Working Families Party, Our Revolution, and several progressive LGBTQ groups.
+
+History: Former San Francisco Supervisor and runner-up in several high-profile SF races.
