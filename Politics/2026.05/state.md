@@ -132,7 +132,7 @@ https://calmatters.org/california-voter-guide-2026/governor/
 | **Rank** | **Candidate**       | **Party**  | **Total Contributions** | **Likelyhood to Win**  |
 | -------- | ------------------- | ---------- | ----------------------- | ---------------------- |
 | **1**    | **Tom Umnerg**      | Democratic | leading                 | **High** (Frontrunner) |
-| **2**    | **Denis Bilodeau**  | Rep        |                         | **Moderate**           |
+| **2**    | **Denis Bilodeau**  | Rep        | competitive             | **strong**             |
 | **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
 | **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
 ### Tom Umberg (Democrat)
@@ -141,15 +141,8 @@ Current State Senator Tom Umberg is the heavy favorite. He carries significant n
 - **Supports:** Backed by heavyweights like the **SEIU California**, **California Teachers Association**, and **Equality California**.
 - **History:** A long-time political fixture; former Assemblyman, State Senator, and Deputy Drug Czar under the Clinton administration. His move to the BOE is seen as a strategic transition as he faces term limits in the Senate.
 ### Denis Bilodeau (Republican)
-
-**Likelihood to Win:** Moderate (Strong Challenger)
-
-**Funding Status:** Competitive
-
 Bilodeau is the primary conservative challenger, drawing support from voters focused on tax relief and Prop 13 protection.
-
 - **Platform:** Strict adherence to **Proposition 13**, reducing bureaucratic "red tape" for small businesses, and increasing transparency in how the BOE sets values for state-assessed properties.
-    
 - **Supports:** Endorsed by the **California Republican Party**, **Reform California**, and the **Howard Jarvis Taxpayers Association**.
-    
 - **History:** An Orange County Water District Director and former Chief of Staff to BOE member Michelle Steel. He has deep institutional knowledge of the board’s inner workings.
+# 
