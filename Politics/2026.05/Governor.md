@@ -31,7 +31,23 @@ https://calmatters.org/california-voter-guide-2026/governor/
 
 ### Fiona Ma (D) [18%]
 - **The Profile:** As the current State Treasurer, Ma boasts the highest statewide name recognition in the field. She has an extensive political resume, having previously served in the State Assembly, on the Board of Equalization, and as a San Francisco Supervisor.
-    
 - **The Platform:** Ma focuses heavily on the financial aspect of higher education. She advocates for aggressive issuance of housing bonds to build student accommodations and suggests partnering with private entities to lease unused campus spaces (like theaters) to generate alternative revenue.
-    
 - **The Outlook:** Her institutional visibility makes her a formidable frontrunner to capture a spot in the top two.
+### Gloria Romero (R) [10%]
+- **The Profile:** Romero is the wild card of the race. She spent 12 years in the Legislature as a Democrat (becoming the first woman to serve as Senate Majority Leader), but officially switched her registration to Republican after growing alienated from the modern Democratic platform.
+- **The Platform:** Romero is running a heavily education-centric campaign focused on school choice, taxpayer-funded private school vouchers, and slashing remedial college coursework to accelerate graduation times.
+- **The Outlook:** Though her fundraising trails significantly, she is the most high-profile Republican in the race. In a crowded Democratic field, she could easily consolidate the conservative vote to secure a spot in the top two.
+### Michael Tubbs (D) [5%]
+- **The Profile:** Tubbs gained national prominence as the progressive, millennial mayor of Stockton, where he launched a famous guaranteed-income pilot program. He currently serves as an economic advisor to Governor Gavin Newsom and leads anti-poverty nonprofits.
+- **The Platform:** Tubbs is leaning hard into progressive economic reform. His campaign centers on driving down higher education costs, expanding universal basic income programs statewide, and uplifting marginalized communities.
+- **The Outlook:** He is dominating the financial race with over $5.5 million raised and enjoys deep support from powerful labor groups like SEIU California and the Working Families Party.
+### Janelle Kellman (D) [3%]
+- **The Profile:** An attorney and former Mayor of Sausalito, Kellman brings a blend of local government experience and environmental advocacy, having founded a nonprofit dedicated to sea-level rise.
+- **The Platform:** Kellman is pushing for free community college tuition statewide, an expansion of job-training programs for in-demand sectors, and aggressive environmental planning on state boards.
+- **The Outlook:** While running a spirited policy-forward campaign, she faces an uphill climb to match the statewide networks and financial power of the top three Democrats.
+### Josh FryDay (D) [2%]
+- **The Profile:** A former Naval officer and Mayor of Novato, Fryday has served as Governor Newsom’s Chief Service Officer since 2019, leading the "California Volunteers" initiative.
+- **The Platform:** Fryday's vision connects higher education to the green economy. He wants California community colleges to aggressively credential trade workers to construct renewable energy projects, positioning the state as a climate workforce leader.
+- **The Outlook:** He carries the backing of the mainstream Democratic establishment—including implicit nods from the Newsom orbit—and has a robust war chest of over $3.6 million.
+# Secretary of State 
+--- 
