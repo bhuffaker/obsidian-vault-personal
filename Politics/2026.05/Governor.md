@@ -59,3 +59,30 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - **Platform:** Weber represents continuity and a defense of California’s current voting structure. She champions the state's transition to permanent universal mail-in voting and expanded registration on high school and college campuses. In response to criticisms regarding slow vote counting, Weber asserts that accuracy and ensuring every vote is audited properly is far more important than speed.
 # Controller
 ---
+### Malie Cohen (D) [1.2M]
+- **Platform:** Focuses on "transparency, efficiency, and fairness." Her primary pitch is modernization, specifically upgrading the state’s aging payroll and financial IT systems (**FI$Cal**).
+- **Supports:** Backed by the **California Democratic Party**, major labor unions (SEIU California, California Teachers Association), and reproductive rights groups.
+- **History:** Elected in 2022. Previously served on the San Francisco Board of Supervisors and the State Board of Equalization.
+- **Analysis:** As the incumbent in a heavily blue state with the largest war chest, she is the clear frontrunner. However, she has faced some criticism for not meeting 2022 campaign promises to audit homelessness spending more aggressively.
+### Herb Morgan (R) [367k]
+- **Platform:** Campaigns on "rooting out fraud and waste." He proposes using **AI-driven monitoring** to track state-funded nonprofit spending in real-time and has created a "transparency dashboard" on his own site to model this for campaign donations.
+- **Supports:** Backed by the **California Republican Party** and various taxpayer advocacy groups.
+- **History:** A businessman and former Chief Investment Officer at Cantor Fitzgerald Investment Advisors. He is positioning himself as a non-politician financial expert.
+- **Analysis:** While Republicans struggle in statewide general elections, Morgan is likely to consolidate the GOP vote, making him the strongest contender to face Cohen in the November runoff.
+# Treasurer
+--- 
+
+| **Rank** | **Candidate**            | **Funding Status**                                                                 | **Likelyhood to Win**                                                                       |
+| -------- | ------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **1**    | **Eleni Kounalakis (D)** | **Extremely High.** Massive war chest (9x the rest of the field combined).         | **High.** Frontrunner due to statewide name ID and institutional backing.                   |
+| **2**    | **Anna Caballero (D)**   | **Moderate-High.** Strong recent fundraising, but trails Kounalakis significantly. | **Competitive.** Strongest challenger; relies on Central Valley and Latino support.         |
+| **3**    | **Jennifer Hawks (R)**   | **Low.** Lacks major donor network of the Democrats.                               | **Moderate (Primary).** Likely to reach the general election via Republican vote-splitting. |
+| **4**    | **Tony Vazquez (D)**     | **Low.** Trailing in both fundraising and statewide visibility.                    | **Low.** Faces uphill battle against two Democratic heavyweights.                           |
+#### **. Eleni Kounalakis (D)**
+- **Platform:** Focuses on fiscal responsibility paired with social equity. She emphasizes using the Treasurer’s seat on state boards (like UC and CSU) to freeze tuition and expand affordable housing through state-backed bonds.
+- **Supports:** Gov. Gavin Newsom, Nancy Pelosi, Hillary Clinton, and major labor unions like the California Labor Federation and Teamsters.
+- **History:** Current Lieutenant Governor (2nd term). Former U.S. Ambassador to Hungary under Obama. Daughter of major developer Angelo Tsakopoulos, which has provided her with a formidable political network.
+#### **2. Anna Caballero (D)**
+- **Platform:** Positioned as the candidate for "working-class California." Her platform focuses on rural infrastructure, clean energy (specifically hydrogen and dairy gas), and simplifying the state’s complex affordable housing subsidy process.
+- **Supports:** U.S. Senator Adam Schiff, California Latino Legislative Caucus, and the California Conference of Carpenters.
+- **History:** Longtime State Senator from Merced/Fresno. Served as Secretary of the Business, Consumer Services and Housing Agency under Jerry Brown and was previously the Mayor of Salinas.
