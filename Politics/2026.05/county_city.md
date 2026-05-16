@@ -1,18 +1,43 @@
 # Treasure-Tax Collector
-| **Rank** | **Candidate**        | **Party** | **War Chest (Funding)** | **Win Likelihood** | **Primary Platform**                                                 |
-| -------- | -------------------- | --------- | ----------------------- | ------------------ | -------------------------------------------------------------------- |
-| **1**    | **Eleni Kounalakis** | DEM       | **Highest**(~$8M+)      | **Very High**      | Fiscal oversight, tuition stability, and green energy investment.    |
-| **2**    | **Anna Caballero**   | DEM       | **High** (~$1M+)        | **Moderate**       | Affordable housing finance and agricultural economic support.        |
-| **3**    | **Jennifer Hawks**   | REP       | **Low**                 | **Low (General)**  | Fiscal "check" on Democratic spending and private-sector efficiency. |
-| **4**    | **Tony Vazquez**     | DEM       | **Moderate**            | **Low**            | Latino community advocacy and labor-centric economic policy.         |
-#### **Eleni Kounalakis (Democrat)**
-- **History:** Current Lieutenant Governor of California and former U.S. Ambassador to Hungary under the Obama administration. She comes from a prominent real estate development family (AKT Development).
-- **Platform:** Focuses on leveraging the Treasurer's seat on state boards (UC Regents, CSU Trustees) to prevent tuition hikes. She is a staunch advocate for **offshore wind development** and using state investments to fight climate change.
-- **Supports:** Heavyweight endorsements from **Gov. Gavin Newsom**, **Nancy Pelosi**, and the **California Labor Federation**.
-- **Outlook:** She is the clear frontrunner. Her massive "war chest" (nearly nine times the cash of all other candidates combined) and high name recognition make her the candidate to beat.
-#### **Anna Caballero (Democrat)**
-- **History:** State Senator and former Secretary of the Business, Consumer Services, and Housing Agency under Jerry Brown. She has a long history as a moderate voice in the Central Valley.
-- **Platform:** Vows to **simplify the application process for affordable housing** subsidies and focus state resources on rural economic development and agricultural sustainability.
-- **Supports:** Strong backing from the **California Latino Legislative Caucus** and building trade unions like the **California Conference of Carpenters**.
-- **Outlook:** She is the primary challenger to Kounalakis. While her total funding is lower, she has been competitive in recent monthly fundraising cycles, positioning her as the "moderate/pragmatic" alternative.
-#### City San Diego, city council district
+## 1. Larry Cohen (Democrat) — **High Likelihood**
+
+- **Short Bio:** Appointed by the Democratic board majority as the interim Treasurer-Tax Collector. Former Chief of Staff to Congressman Juan Vargas and a former biotechnology executive at MilliporeSigma. Holds a UCSD political science degree and an MBA.
+    
+- **Funding Source:** Heavily backed by institutional Democratic cash, organized labor (including SEIU Local 221), and local progressive PACs.
+    
+- **Policy Summary:** Focuses on maintaining the county's 99% tax collection rate, modernizing the online property tax system (IPTS) to cut overhead costs, and expanding outreach to prevent seniors from falling for AI-driven financial scams.
+    
+- **The Gossip:** He has the massive advantage of "incumbent" status on the ballot despite only being appointed recently. Critics whisper that his quick transition from congressional staffer to biotech exec to interim treasurer was a carefully orchestrated political pipeline engineered by the county’s Democratic establishment.
+    
+
+## 2. Joel Anderson (Republican) — **Medium-High Likelihood**
+
+- **Short Bio:** A powerhouse in regional conservative politics, Anderson is a current San Diego County Supervisor and former California State Legislator known for high name recognition.
+    
+- **Funding Source:** Funded by conservative donor networks, real estate development PACs, and regional business coalitions.
+    
+- **Policy Summary:** Promotes strict fiscal oversight to counter California's economic cooling. Focuses heavily on shifting office priorities toward expanding homeowner and rental assistance programs to prevent senior homelessness.
+    
+- **The Gossip:** Anderson running for a bureaucratic tax collector seat while sitting on the powerful Board of Supervisors raised eyebrows. Word on the street is that he's eyeing a safer, less volatile long-term seat to coast on while maintaining a strong grip on regional GOP influence.
+    
+
+## 3. Shirley Nakawatase (Republican) — **Medium-Low Likelihood**
+
+- **Short Bio:** A Certified Public Accountant (CPA) and founder of Nakawatase & Co (now HNK CPAs). She serves as the Treasurer for the San Diego County Capital Asset Leasing Corporation.
+    
+- **Funding Source:** Self-funded in part, alongside small-business donations and localized GOP chapter support.
+    
+- **Policy Summary:** Positioned as the "only true financial professional" in the race. Her platform focuses strictly on apolitical fund management, streamlining services for businesses, and prepping county investments for a looming economic downturn.
+    
+- **The Gossip:** Insiders say her campaign is frustrated by Joel Anderson sucking all the oxygen—and donor money—out of the room for the conservative lane, forcing her to rely heavily on grassroots financial professionals.
+    
+
+## 4. Victor Roy (Independent) — **Low Likelihood**
+
+- **Short Bio:** Former Oceanside City Treasurer who oversaw a budget growth from $320 million to $550 million.
+    
+- **Funding Source:** Independent, grassroots donations, and personal funds. Very low institutional backing.
+    
+- **Policy Summary:** Runs on a strict "Zero-Waste Government" platform, pushing for balanced budgets, hyper-transparency, and a totally non-partisan approach to county investments.
+    
+- **The Gossip:** While he touts a clean record in Oceanside, political operatives view his independent run as a long shot. He is largely ignored by the major parties, leaving him without the institutional machine needed to scale a county-wide campaign.
