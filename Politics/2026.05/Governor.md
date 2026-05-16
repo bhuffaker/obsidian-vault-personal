@@ -112,25 +112,44 @@ https://calmatters.org/california-voter-guide-2026/governor/
 | **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
 | **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
 ### Ben Allen (D) – State Senator
-Platform: Focuses on "Consumer Accountability." He proposes a new consumer advocate position within the department and state-backed loans to help homeowners make their properties more fire-resistant (home hardening).  Supports: Backed by U.S. Senators Alex Padilla and Adam Schiff, as well as several labor unions (CFT, UFCW). History: A veteran legislator from El Segundo who has chaired environmental and budget committees. He is running on his record of climate legislation.  
+- Platform: Focuses on "Consumer Accountability." He proposes a new consumer advocate position within the department and state-backed loans to help homeowners make their properties more fire-resistant (home hardening).  
+- Supports: Backed by U.S. Senators Alex Padilla and Adam Schiff, as well as several labor unions (CFT, UFCW). 
+- History: A veteran legislator from El Segundo who has chaired environmental and budget committees. He is running on his record of climate legislation.  
 ### Patrick Wolff (D) – Financial Analyst
-Platform: Transparency-focused. Proposes an "Insurance Report Card" to grade insurers on claim handling. He is also open to tech-driven solutions, such as allowing auto insurers to track driver behavior for lower rates.  
-Supports: Largely self-funded and positioned as a technocratic outsider.
+- Platform: Transparency-focused. Proposes an "Insurance Report Card" to grade insurers on claim handling. He is also open to tech-driven solutions, such as allowing auto insurers to track driver behavior for lower rates.  
+- Supports: Largely self-funded and positioned as a technocratic outsider.
+- History: A chess Grandmaster and former hedge fund manager who obtained his insurance license specifically to run for this office.
+### Steven Bradford (D) – Former State Senator
+- Platform: Stability through partnership. He supports a state-private partnership to share risk, aiming to keep private insurers from leaving California. He advocates for including insurance companies in land-use planning discussions.  
+- Supports: Endorsed by State Treasurer Fiona Ma and LA Mayor Karen Bass.
+- History: Former legislator and Southern California Edison executive with deep ties to the energy and utility sectors.  
+### Jane Kim (D) – Working Families Party Leader
 
-History: A chess Grandmaster and former hedge fund manager who obtained his insurance license specifically to run for this office.
+- Platform: Progressive populist. Advocates for "Natural Disaster Insurance for All" and a public option for auto insurance. She wants to consolidate all health and managed care authority under the Insurance Commissioner.  
+- Supports: California Working Families Party, Our Revolution, and several progressive LGBTQ groups.
+- History: Former San Francisco Supervisor and runner-up in several high-profile SF races.
+### member, state boar of equalization 4th district 
+| **Rank** | **Candidate**       | **Party**  | **Total Contributions** | **Likelyhood to Win**  |
+| -------- | ------------------- | ---------- | ----------------------- | ---------------------- |
+| **1**    | **Tom Umnerg**      | Democratic | leading                 | **High** (Frontrunner) |
+| **2**    | **Denis Bilodeau**  | Rep        |                         | **Moderate**           |
+| **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
+| **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
+### Tom Umberg (Democrat)
+Current State Senator Tom Umberg is the heavy favorite. He carries significant name recognition and a formidable "war chest" typically seen in top-tier legislative races.
+- **Platform:** Focuses on tax fairness for middle-class homeowners, modernization of BOE technology, and ensuring utilities/railroads pay their fair share of property taxes.
+- **Supports:** Backed by heavyweights like the **SEIU California**, **California Teachers Association**, and **Equality California**.
+- **History:** A long-time political fixture; former Assemblyman, State Senator, and Deputy Drug Czar under the Clinton administration. His move to the BOE is seen as a strategic transition as he faces term limits in the Senate.
+### Denis Bilodeau (Republican)
 
-3. Steven Bradford (D) – Former State Senator
+**Likelihood to Win:** Moderate (Strong Challenger)
 
-Platform: Stability through partnership. He supports a state-private partnership to share risk, aiming to keep private insurers from leaving California. He advocates for including insurance companies in land-use planning discussions.  
+**Funding Status:** Competitive
 
-Supports: Endorsed by State Treasurer Fiona Ma and LA Mayor Karen Bass.
+Bilodeau is the primary conservative challenger, drawing support from voters focused on tax relief and Prop 13 protection.
 
-History: Former legislator and Southern California Edison executive with deep ties to the energy and utility sectors.  
-
-4. Jane Kim (D) – Working Families Party Leader
-
-Platform: Progressive populist. Advocates for "Natural Disaster Insurance for All" and a public option for auto insurance. She wants to consolidate all health and managed care authority under the Insurance Commissioner.  
-
-Supports: California Working Families Party, Our Revolution, and several progressive LGBTQ groups.
-
-History: Former San Francisco Supervisor and runner-up in several high-profile SF races.
+- **Platform:** Strict adherence to **Proposition 13**, reducing bureaucratic "red tape" for small businesses, and increasing transparency in how the BOE sets values for state-assessed properties.
+    
+- **Supports:** Endorsed by the **California Republican Party**, **Reform California**, and the **Howard Jarvis Taxpayers Association**.
+    
+- **History:** An Orange County Water District Director and former Chief of Staff to BOE member Michelle Steel. He has deep institutional knowledge of the board’s inner workings.
