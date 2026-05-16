@@ -19,6 +19,7 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - **Background:** A titan of California and federal politics, Becerra has served as the U.S. Secretary of Health and Human Services, California Attorney General, and a long-time member of Congress representing Los Angeles.
 - **Platform:** Becerra heavily leans into his record of suing the first Trump administration over 100 times. His platform centers on expanding Medi-Cal toward a single-payer healthcare system, addressing the cost of living by capping utility and insurance rates, and targeting corporate price gouging. He has recently had to fend off debate attacks regarding a fraud case involving a former top political adviser.
 - state funds for cities that build and law suits for cities that don't 
+- Gospid: old cronies 
 ### Chad Bianco (Republican) (rejected sheriff) [14%]
 - **Background:** The current Riverside County Sheriff who has spent three decades in law enforcement. He was first elected to the position in 2018 with heavy backing from deputy unions.
 - **Platform:** Bianco is running on an uncompromising law-and-order and fiscal conservative platform. He wants to completely overturn California's sanctuary state laws, boost local oil and gas production, suspend environmental rules, and entirely eliminate both the state income tax and the gas tax.
