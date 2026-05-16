@@ -15,4 +15,4 @@
 - **Platform:** Vows to **simplify the application process for affordable housing** subsidies and focus state resources on rural economic development and agricultural sustainability.
 - **Supports:** Strong backing from the **California Latino Legislative Caucus** and building trade unions like the **California Conference of Carpenters**.
 - **Outlook:** She is the primary challenger to Kounalakis. While her total funding is lower, she has been competitive in recent monthly fundraising cycles, positioning her as the "moderate/pragmatic" alternative.
-#### City San Diego, council d
+#### City San Diego, city council district
