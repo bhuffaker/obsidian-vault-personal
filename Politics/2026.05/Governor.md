@@ -51,3 +51,11 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - **The Outlook:** He carries the backing of the mainstream Democratic establishment—including implicit nods from the Newsom orbit—and has a robust war chest of over $3.6 million.
 # Secretary of State 
 --- 
+### Don Wagner (R) [$497K]
+- **Background:** Wagner is an Orange County Supervisor, former Mayor of Irvine, and former California State Assemblymember. He has received the official endorsement of the California Republican Party and former Governor Pete Wilson.
+- **Platform:** Wagner is running on an "election integrity" platform, heavily criticizing California's notoriously slow ballot-counting process. He advocates for passing state laws to require voter ID at the polls and wants to roll back the practice of sending universal mail-in ballots to every registered voter. While acknowledging a GOP win statewide is an uphill battle, he intends to use the office as a "bully pulpit" against the state's Democratic supermajority.
+### Sherley Weber (D - Incumbent) [$461K]
+- **Background:** Weber made history in 2021 as the first Black Secretary of State in California when she was appointed by Gov. Gavin Newsom, later winning a full term in 2022. She is a former San Diego State University professor and state Assemblymember. She is backed by the California Democratic Party and major labor groups like SEIU California.
+- **Platform:** Weber represents continuity and a defense of California’s current voting structure. She champions the state's transition to permanent universal mail-in voting and expanded registration on high school and college campuses. In response to criticisms regarding slow vote counting, Weber asserts that accuracy and ensuring every vote is audited properly is far more important than speed.
+# Controller
+---
