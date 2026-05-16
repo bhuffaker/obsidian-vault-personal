@@ -113,7 +113,7 @@ https://calmatters.org/california-voter-guide-2026/governor/
 | **3**    | **Steven Bradford** | Democratic | ~$672,678               | **Moderate**           |
 | **4**    | **Jane Kim**        | Democratic | ~$453,098               | **Competitive**        |
 ### Ben Allen (D) – State Senator
-- Platform: Focuses on "Consumer Accountability." He proposes a new consumer advocate position within the department and state-backed loans to help homeowners make their properties more fire-resistant (home hardening).  
+- Platform: Focuses on "Consumer Accountability." He proposes a new consumer advocate position within the department and state-backed loans to help homeowners make their properties more fire-resistant (home hardening). 
 - Supports: Backed by U.S. Senators Alex Padilla and Adam Schiff, as well as several labor unions (CFT, UFCW). 
 - History: A veteran legislator from El Segundo who has chaired environmental and budget committees. He is running on his record of climate legislation.  
 ### Patrick Wolff (D) – Financial Analyst
@@ -121,7 +121,7 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - Supports: Largely self-funded and positioned as a technocratic outsider.
 - History: A chess Grandmaster and former hedge fund manager who obtained his insurance license specifically to run for this office.
 ### Steven Bradford (D) – Former State Senator
-- Platform: Stability through partnership. He supports a state-private partnership to share risk, aiming to keep private insurers from leaving California. He advocates for including insurance companies in land-use planning discussions.  
+- Platform: Stability through partnership. He supports a state-private partnership to share risk, aiming to keep private insurers from leaving California. He advocates for including insurance companies in land-use planning discussions.  Buy out people in high risk area. 
 - Supports: Endorsed by State Treasurer Fiona Ma and LA Mayor Karen Bass.
 - History: Former legislator and Southern California Edison executive with deep ties to the energy and utility sectors.  
 ### Jane Kim (D) – Working Families Party Leader
@@ -129,7 +129,7 @@ https://calmatters.org/california-voter-guide-2026/governor/
 - Platform: Progressive populist. Advocates for "Natural Disaster Insurance for All" and a public option for auto insurance. She wants to consolidate all health and managed care authority under the Insurance Commissioner.  
 - Supports: California Working Families Party, Our Revolution, and several progressive LGBTQ groups.
 - History: Former San Francisco Supervisor and runner-up in several high-profile SF races.
-### member, state boar of equalization 4th district 
+### member, state board of equalization 4th district 
 | **Rank** | **Candidate**       | **Party**  | **Total Contributions** | **Likelyhood to Win**  |
 | -------- | ------------------- | ---------- | ----------------------- | ---------------------- |
 | **1**    | **Tom Umnerg**      | Democratic | leading                 | **High** (Frontrunner) |
