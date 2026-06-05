@@ -1,7 +1,7 @@
 #gamenight #boardgame
 
 ## Gloomhaven Secretariat (app)
-server: us.*
+
 code: sd-oc-va-2025
 
 
