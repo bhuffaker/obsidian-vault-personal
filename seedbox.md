@@ -22,3 +22,4 @@ Seedbox
 - The Thousand Autumns of Jacob de Zoet
 - Holly black, Folk of Air (cruel prince)
 - warbreaker sanders 
+- sanderson - songs of the dead
