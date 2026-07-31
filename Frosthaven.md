@@ -4,7 +4,7 @@ https://cephalofairgames.github.io/frosthaven-faq/#page_41
 
 https://www.gloomhaven-secretariat.de/
 - (hamberger) -> server -> [connect public server] -> us.gloomhaven-secretariat.de
-	- code:  sd-oc-va-2025
+	- code: sd-oc-va-2025
 
 https://github.com/any2cards/worldhaven
 
