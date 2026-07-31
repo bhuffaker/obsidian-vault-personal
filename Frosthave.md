@@ -2,6 +2,8 @@
 
 ## Gloomhaven Secretariat (app)
 
+https://us.gloomhaven-secretariat.de/
+
 code: sd-oc-va-2025
 
 
@@ -14,4 +16,3 @@ Code KLBS
 camera/mic can be enabled with the options to the left of the url bar
 
 ## ai questions
-https://app.gamenightgpt.com/?game=frosthaven
