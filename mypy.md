@@ -1,0 +1,1 @@
+mypy strict python type checker 
