@@ -8,19 +8,19 @@
 
 ## Summary
 
-|Component|Spec|
+|Component| Spec                                             |
 |---|---|
-|CPU|Intel Core i9-10900K|
-|Motherboard|ASUS ProArt Z490-Creator 10G|
-|GPU|NVIDIA RTX 3080 10 GB GDDR6X (MSI)|
-|RAM|64 GB DDR4-3200 (4×16 GB)|
-|Boot drive|1 TB WD Blue SN550 NVMe|
-|Secondary|3 TB SATA III HDD|
-|External|4 TB ADATA HD830 USB|
-|PSU|Enermax Revolution D.F. 850 W (ERF850AWT)|
-|Cooling|DeepCool Castle 360EX ARGB 360 mm AIO|
-|Case|Phanteks Evolv X ATX Mid-Tower (Special Edition)|
-|OS|Windows 10 Home 64-bit|
+|CPU| Intel Core i9-10900K                             |
+|Motherboard| ASUS ProArt Z490-Creator 10G                     |
+|GPU| NVIDIA RTX 3080 10 GB GDDR6X (MSI)               |
+|RAM| 64 GB DDR4-3200 (4×16 GB)                        |
+|Boot drive| 1 TB WD Blue SN550 NVMe                          |
+|Secondary| 3 TB SATA III HDD                                |
+|External| 4 TB ADATA HD830 USB                             |
+|PSU| Enermax Revolution D.F. 850 W (ERF850AWT)        |
+|Cooling| DeepCool Castle 360EX ARGB 360 mm AIO            |
+|Case| Phanteks Evolv X ATX Mid-Tower (Special Edition) |
+|OS| Windows 11                                       |
 
 ---
 
