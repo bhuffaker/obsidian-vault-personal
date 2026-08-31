@@ -4,7 +4,7 @@
 	- dafunkjoe/_d@Jci_9-b6WXf
 - download files
 	 - https://dafunkjoe.tofino.usbx.me/filebrowser/login?redirect=/files/
-	- 'dafunkjoe/*YpJu4tp_6'
+	- `dafunkjoe/*YpJu4tp_6`
 
 Seedbox
 - https://www.seedhost.eu/contacts.php
