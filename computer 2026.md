@@ -16,6 +16,7 @@
 | RAM         | 64 GB DDR4-3200 (4×16 GB)                        |
 | Boot drive  | 1 TB WD Blue SN550 NVMe                          |
 | Secondary   | 3 TB SATA III HDD                                |
+| Third       | 2 TB Samsung SSD 990                             |
 | External    | 4 TB ADATA HD830 USB                             |
 | PSU         | Enermax Revolution D.F. 850 W (ERF850AWT)        |
 | Cooling     | DeepCool Castle 360EX ARGB 360 mm AIO            |
