@@ -25,3 +25,5 @@ Seedbox
 - sanderson - songs of the dead
 - yesteryear
 - william D. Arand
+- casualfarmer
+- yuval naoh harari
