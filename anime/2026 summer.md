@@ -1,0 +1,4 @@
+- Clevatess ranking 8/10 not as great as season 1, but still good.
+	- epiode 6
+	- https://anikototv.to/watch/clevatess-season-2/ep-6
+- 
