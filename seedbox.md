@@ -27,3 +27,5 @@ Seedbox
 - william D. Arand
 - casualfarmer
 - yuval naoh harari
+- Tommy Kerper - I'm not the hero isekai
+- 
