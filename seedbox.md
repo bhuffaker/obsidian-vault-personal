@@ -29,3 +29,5 @@ Seedbox
 - yuval naoh harari
 - Tommy Kerper - I'm not the hero isekai
 - Fires of December Sanderson
+- thousand li series 
+- Alchemised
