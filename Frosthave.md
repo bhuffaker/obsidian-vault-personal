@@ -7,6 +7,10 @@ https://us.gloomhaven-secretariat.de/
 code: "sd-oc-va-2025"
 - it will connect ' sd-oc-va-2025', but it will not be the right server
 
+server: gh.risse.com/ghs
+port: 443
+secure: true 
+
 ## Vorpalboad
 
 https://play.vorpalboard.com/#rc=NDcwMDczOktMQlM
