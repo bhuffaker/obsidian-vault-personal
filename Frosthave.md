@@ -9,7 +9,7 @@ code: "sd-oc-va-2025"
 
 server: gh.risse.com/ghs
 port: 443
-	code: 2025
+code: 2025
 secure: true 
 
 ## Vorpalboad
